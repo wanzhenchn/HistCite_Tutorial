@@ -34,7 +34,7 @@ HistCite＝History of Cite，意味引文历史，或者叫引文图谱分析软
 
 ### 3. HistCite 资源：
 
-- [PDF教程](https://github.com/wanzhenchn/HistCite_Tutorial)
+- [PDF教程](https://pan.baidu.com/s/1zJn3ku8flRqIwPe4yjl6CA) | 提取码：iuvy
 - [网页版教程](https://mp.weixin.qq.com/s?__biz=MzU1OTE2NzQyMQ==&mid=2247483732&idx=1&sn=cc73151333b2c2c71c63e6cc22413889&chksm=fc1a2386cb6daa905cf8fc4b8f628f55873384304cda3ab9ce12cbf763ce97ba57632128cdc1&token=666505522&lang=zh_CN#rd)
 - [HistCite-Windows 软件下载](https://pan.baidu.com/s/1zJn3ku8flRqIwPe4yjl6CA) | 提取码：iuvy
 - 如果您觉得有帮助, 请在右上角star本项目, 您的“点赞”就是对我最大的支持！ 更多资源请关注**微信公众号**：[BreakIntoAI](https://weixin.sogou.com/weixin?type=1&s_from=input&query=BreakIntoAI&ie=utf8&_sug_=n&_sug_type_=)
