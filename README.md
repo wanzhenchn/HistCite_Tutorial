@@ -1,5 +1,9 @@
 # HistCite-Turior
 
+<div align="center">
+<img src="./resource/histcite.jpg" height=20% width=50% >
+</div>
+
 ## HistCite快速定位核心文献
 
 ### 1. HistCite 简介
